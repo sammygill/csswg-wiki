@@ -36,9 +36,11 @@ This list includes ideas that are somewhere on the CSS Working Group's radar, bu
 
 # Requirements Documents
 
+- Script-by-script resources, linked from the [Language Enablement Index](https://www.w3.org/TR/typography/#letterforms)
 - Requirements for Japanese Text Layout (jlreq): [TR draft](http://www.w3.org/TR/jlreq/)
 - Requirements for Hangul Text Layout and Typography (klreq): [TR draft](http://www.w3.org/TR/klreq/), [editor's draft](http://www.w3.org/International/docs/korean-layout/)
 - Requirements for Latin Text Layout and Pagination (dpub-latinreq): [TR draft](http://www.w3.org/TR/dpub-latinreq/), [editor's draft](http://w3c.github.io/dpub-pagination/)
+
 
 ## Archive
 
