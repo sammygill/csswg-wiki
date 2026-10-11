@@ -45,8 +45,8 @@ title: "CSSWG meeting at TPAC 2026"
 | Kevin Babbitt | Microsoft | Oct 25-31 | Clayton | |
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
-| Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
+| Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
 
 ### Remote
 
