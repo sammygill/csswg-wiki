@@ -6,9 +6,6 @@ title: "CSSWG meeting at TPAC 2026"
 
 [TPAC 2026](https://www.w3.org/news-events/tpac/2026/) is scheduled for **26-30 October 2026** in Dublin, Ireland with options for both in-person and remote participation. 
 
-- CSSWG-APA joint meeting: Tuesday 27 October, 10:30–12:00
-- Immersive Web CG/WG joint meeting on [Spatial CSS](https://webkit.github.io/explainers/css-spatial/explainer.html): Tuesday 27 October, afternoon
-- Internationalization WG joint meeting: Tuesday 27 October, afternoon
 - CSSWG F2F: **Thursday-Friday, 29-30 October**
 - [high level TPAC schedule](https://www.w3.org/news-events/tpac/2026/schedule/)
 - [full TPAC schedule](https://www.w3.org/calendar/tpac2026/)
@@ -24,6 +21,9 @@ title: "CSSWG meeting at TPAC 2026"
 
 | **Date** | **Time** | **Team** | **Subject** |
 | --- | --- | --- | --- |
+| 27-Oct | All Day | Internationalization joint meeting | [agenda](https://github.com/w3c/i18n-activity/issues/2172) |
+| 27-Oct | 10:30–12:00 | CSSWG-APA joint meeting | |
+| 27-Oct | Late Afternoon | Immersive Web CG/WG joint meeting | [Spatial CSS](https://webkit.github.io/explainers/css-spatial/explainer.html) |
 | 29-Oct | 15:30 - 16:30 | WHATWG / META | Module Stylesheet <link> |
 
 ## Participants
