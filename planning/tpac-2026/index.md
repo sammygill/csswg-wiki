@@ -49,6 +49,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
+| Simon Sapin | Igalia | Oct 27-31 | NYX Portobello | |
 | Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
 
 ### Remote
