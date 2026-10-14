@@ -47,6 +47,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Karl Dubost | Apple | Oct 25-31 | Clayton | |
 | Keith Cirkel | Mozilla | Oct 25-31 | Clayton | |
 | Kevin Babbitt | Microsoft | Oct 25-31 | Clayton | |
+| Lea Verou | Invited Expert | Oct 25-31 | Clayton | |
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
