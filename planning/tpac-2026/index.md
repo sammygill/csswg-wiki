@@ -21,6 +21,7 @@ title: "CSSWG meeting at TPAC 2026"
 
 | **Date** | **Time** | **Team** | **Subject** |
 | --- | --- | --- | --- |
+| 26-Oct | 11:00-11:30 | CSS Accessibility API Mappings | ARIA [agenda](https://github.com/w3c/aria/wiki/TPAC-2026#monday-oct-26-2026) |
 | 27-Oct | All Day | Internationalization joint meeting | [agenda](https://github.com/w3c/i18n-activity/issues/2172) |
 | 27-Oct | 10:30–12:00 | CSSWG-APA joint meeting | |
 | 27-Oct | Late Afternoon | Immersive Web CG/WG joint meeting | [Spatial CSS](https://webkit.github.io/explainers/css-spatial/explainer.html) |
