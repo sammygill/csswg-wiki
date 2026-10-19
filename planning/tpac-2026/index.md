@@ -34,7 +34,7 @@ title: "CSSWG meeting at TPAC 2026"
 
 (sorted by first name)
 
-| **Name** | **Affiliation** | **Dates** | **Accomodation** | **Other** |
+| **Name** | **Affiliation** | **Dates** | **Accommodation** | **Other** |
 | --- | --- | --- | --- | --- |
 | Alan Stearns | Adobe | Oct 23-31 | Clayton |  |
 | Andreu Botella | Igalia | Oct 25 - Nov 1 | Devlin | |
@@ -50,6 +50,7 @@ title: "CSSWG meeting at TPAC 2026"
 | Lea Verou | Invited Expert | Oct 25-31 | Clayton | |
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
+| Oriol Brufau | Igalia | Oct 25-31 | Morehampton Townhouse |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
 | Simon Sapin | Igalia | Oct 27-31 | NYX Portobello | |
 | Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
