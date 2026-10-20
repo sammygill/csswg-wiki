@@ -55,6 +55,7 @@ https://github.com/orgs/w3c/projects/252/views/1
 | Miriam Suzanne | Invited Expert | Oct 25-31 | Clayton |  |
 | Noam Rosenthal | Google | Oct 26-31 | Clayton |  |
 | Oriol Brufau | Igalia | Oct 25-31 | Morehampton Townhouse |  |
+| Rachel Andrew | Google | Oct 25-31 | Hilton |  |
 | Romain Menke | Invited Expert | Oct 25-31 | Clayton |  |
 | Simon Sapin | Igalia | Oct 27-31 | NYX Portobello | |
 | Yehonatan Daniv | Wix | Oct 27-31 | Clayton |  Remote on 26th, traveling during 27th |
